@@ -1,4 +1,4 @@
-# AAD_B2C_GroupMembers
+# ASP.NET Core MVC 2.1 AAD_B2C_GroupMembers
 Log in via AAD B2C and check if user is in group
 
 Application shows how to log in via AAD B2C and then add user to group and check if user is inside a group.
