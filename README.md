@@ -8,5 +8,5 @@ Repo: https://github.com/Azure-Samples/active-directory-b2c-dotnetcore-webapp
 
 AAD Graph: https://msdn.microsoft.com/en-us/library/azure/ad/graph/api/groups-operations 
 
-Steps to tonfigure are described in Lab_AAD_B2C.pdf file
+# Steps to tonfigure are described in Lab_AAD_B2C.pdf file
 
